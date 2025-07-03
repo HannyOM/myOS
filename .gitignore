@@ -1,0 +1,16 @@
+# NASM/Assembly build artifacts
+*.bin
+*.o
+*.lst
+
+# QEMU/Virtual Machine files (if generated directly in repo)
+*.qcow2
+*.vdi
+*.vmdk
+
+# Editor/IDE specific files (common examples)
+.vscode/
+.idea/
+*~
+*.swp
+*.bak
